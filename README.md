@@ -1,4 +1,4 @@
-## Abaqus Workshops
+## Fluent Workshops
 **[Computational Science and Engineering](http://cse.illinois.edu/)**
 
 ### Foreword
