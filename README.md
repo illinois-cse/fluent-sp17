@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+## Abaqus Workshops
+**[Computational Science and Engineering](http://cse.illinois.edu/)**
 
-You can use the [editor on GitHub](https://github.com/uiuc-cse/fluent-sp17/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Foreword
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ANSYS Fluent CFD is a very popular fluid mechanics solver.  This workshop series will introduce you to basic and advanced Fluent concepts.
 
-### Markdown
+The EWS Windows machines have everything we need for the workshop.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Location
 
-# Header 1
-## Header 2
-### Header 3
+All workshops will be held in the EWS computer laboratory, [1001](http://ada.fs.illinois.edu/0029Plan1.html) [Mechanical Engineering Laboratory](http://ada.fs.illinois.edu/0029.html).
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+### Topics
 
-**Bold** and _Italic_ and `Code` text
+- Finite volume method workflow
+- Preprocessing
+- Coupling physics
+- Boundary conditions
+- Transient simulation
+- Verification and validation
+- Turbulent flow
+- Compressible flow
+- Scripting/HPC
+- Chemical reactivity
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/uiuc-cse/fluent-sp17/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**Workshops are held from 1:00 p.m.–3:00 p.m. on Tuesdays from March 28 until April 25.**
